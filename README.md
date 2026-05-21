@@ -135,22 +135,24 @@ plt.xlim([0, 256])
 
 - Original grayscale image is displayed
 
-<img width="598" height="415" alt="image" src="https://github.com/user-attachments/assets/fa15ff44-bfaf-46cd-ac36-dc48d15830f0" />
+<img width="735" height="580" alt="image" src="https://github.com/user-attachments/assets/175bfe83-5903-4e14-ae1a-ee309f05292c" />
 
 - Histogram of original grayscale image is plotted
 
-<img width="692" height="498" alt="image" src="https://github.com/user-attachments/assets/7f6ceff8-73cf-4daf-932c-25f9b5c0bfd2" />
+<img width="750" height="615" alt="image" src="https://github.com/user-attachments/assets/b4fac03b-42d3-40c0-80db-20b6b6a84fae" />
 
 
 - Enhanced image after histogram equalization is displayed
 
-<img width="627" height="426" alt="image" src="https://github.com/user-attachments/assets/b17a8fa4-7e59-4aea-a3a3-8c538864d413" />
+<img width="767" height="581" alt="image" src="https://github.com/user-attachments/assets/fc4cd154-07ef-490d-a852-0e9a28857b29" />
+
 
 
 - Histogram of enhanced grayscale image shows improved contrast  
 
+<img width="740" height="615" alt="image" src="https://github.com/user-attachments/assets/650a9a84-3dcb-4462-bd85-e00fd32fe4a6" />
 
-<img width="728" height="493" alt="image" src="https://github.com/user-attachments/assets/3d21bdff-eff2-41ce-81f1-864e26d57645" />
+
 
 
 ---
